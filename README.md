@@ -1,7 +1,11 @@
-[![Audacity](https://forum.audacityteam.org/styles/prosilver/theme/images/Audacity-logo_75px_trans_forum.png)](https://www.audacityteam.org) 
+[![Audacity](https://www.audacityteam.org)
 =========================
 
-[**Audacity**](https://www.audacityteam.org) is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. Developed by a group of volunteers as open source.
+## Why this fork?
+
+Audacity is [considering including telemetry](https://github.com/audacity/audacity/pull/835). Why? Because they can (yes, really, they don't have a good reason to include tracking their user base). This fork is to ensure there is a copy of the code available before the telemetry is included.
+
+Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. Developed by a group of volunteers as open source.
 
 - **Recording** from any real, or virtual audio device that is available to the host system.
 - **Export / Import** a wide range of audio formats, extendible with FFmpeg.
@@ -16,6 +20,6 @@
 
 ## Getting Started
 
-For end users, the latest Windows and macOS release version of Audacity is available from the [Audacity website](https://www.audacityteam.org/download/).
-Help with using Audacity is available from the [Audacity Forum](https://forum.audacityteam.org/).
-Information for developers is available from the [Audacity Wiki](https://wiki.audacityteam.org/wiki/For_Developers).
+For end users, Windows and macOS release version 3.0.2 of Audacity is available from [Fosshub](https://www.fosshub.com/Audacity-old.html).
+
+The release notes for this version of Audacity can be found on the [offical Audacity release notes](https://wiki.audacityteam.org/wiki/Release_Notes_3.0.2).
