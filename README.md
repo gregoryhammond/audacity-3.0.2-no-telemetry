@@ -1,4 +1,4 @@
-[![Audacity](https://www.audacityteam.org)
+[Audacity](https://www.audacityteam.org)
 =========================
 
 ## Why this fork?
