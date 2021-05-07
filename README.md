@@ -5,6 +5,10 @@
 
 Audacity is [considering including telemetry](https://github.com/audacity/audacity/pull/835). Why? Because they can (yes, really, they don't have a good reason to include tracking their user base). This fork is to ensure there is a copy of the code available before the telemetry is included.
 
+Audacity has said that telemetry will be disabled by default, but after not saying that in the first place you can't really trust them.
+
+## About Audacity
+
 Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. Developed by a group of volunteers as open source.
 
 - **Recording** from any real, or virtual audio device that is available to the host system.
