@@ -3,9 +3,9 @@
 
 ## Why this fork?
 
-Audacity is [considering including telemetry](https://github.com/audacity/audacity/pull/835). Why? Because they can (yes, really, they don't have a good reason to include tracking their user base). This fork is to ensure there is a copy of the code available before the telemetry is included.
+Audacity [considered including telemetry](https://github.com/audacity/audacity/pull/835) and a [major privacy policy change](https://github.com/audacity/audacity/issues/1213) ([with clarification](https://github.com/audacity/audacity/discussions/1225)). Why? Because they can (yes, really, they don't have a good reason to include tracking their user base). This fork is to ensure there is a copy of the code available before these changes are made.
 
-Audacity has said that telemetry will be disabled by default, but after not saying that in the first place you can't really trust them.
+Audacity has gone back on what they said they were first going to do, but now they almost can't be trusted with making changes which will benefit the community as a whole. This fork is here so you can see the changes before all of that is added.
 
 ## About Audacity
 
